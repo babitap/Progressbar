@@ -1,0 +1,24 @@
+.dialogContainer {
+  width: 100%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.dialogHeading {
+  text-align: center;
+}
+
+.progressBarContainer {
+  margin-bottom: 1rem;
+}
+
+.selectContainer,
+.buttonContainer {
+  display: inline;
+  margin-right: 10px;
+  height: 1.45rem;
+}
+
+.selectElement {
+  height: 1.5rem; 
+}
